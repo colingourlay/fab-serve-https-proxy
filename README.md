@@ -13,7 +13,7 @@ A simple https server (running on https://localhost:3001) that proxies requests 
    - Organization Name
    - Common Name = **localhost**
    - Email Address
-4. Start your FAB (`npx @fab/serve` in your app directory, or whatever script you use)
+4. Start your FAB (`npx @fab/serve fab.zip` in your app directory, or whatever script you use)
 5. Start this server (`npm start`)
 6. The server root will open in your browser, so you can accept the SSL certificate exception (if you haven't already)
 
