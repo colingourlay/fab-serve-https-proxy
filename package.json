@@ -1,0 +1,21 @@
+{
+  "name": "fab-serve-https-proxy",
+  "version": "1.0.0-pre",
+  "description": "A simple https server that proxies requests to whatever fab-serve app is running",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Colin Gourlay <colin@colin-gourlay.com>",
+  "publishConfig": {
+    "access": "public"
+  },
+  "license": "Unlicense",
+  "dependencies": {
+    "fastify": "^1.13.0",
+    "fastify-cors": "^0.2.0",
+    "got": "^9.3.2",
+    "open": "0.0.5"
+  },
+  "devDependencies": {}
+}
