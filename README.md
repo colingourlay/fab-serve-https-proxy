@@ -1,3 +1,5 @@
+<h1><large>This is no longer required. `@fab/serve` supports https since `v0.2`</large></h1>
+
 # fab-serve-https-proxy
 
 A simple https server (running on https://localhost:3001) that proxies requests to whatever [fab-serve](https://github.com/fab-spec/fab/tree/master/packages/fab-serve) app is running (at http://localhost:3000), and allowing you to verify secure apps locally.
