@@ -1,4 +1,4 @@
-<h1><large>This is no longer required. `@fab/serve` supports https since `v0.2`</large></h1>
+_This is no longer required. `@fab/serve` supports https since v0.2_
 
 # fab-serve-https-proxy
 
