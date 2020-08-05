@@ -12,7 +12,7 @@
   },
   "license": "Unlicense",
   "dependencies": {
-    "fastify": "^1.13.0",
+    "fastify": "^2.15.1",
     "fastify-cors": "^0.2.0",
     "got": "^9.3.2",
     "open": "0.0.5"
